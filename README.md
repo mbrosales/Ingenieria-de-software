@@ -7,4 +7,4 @@ En este repositorio se encuentran 3 ejercicios los cuales consisten en:
 
 +Ejercicio 2: Consiste en identificar qué libros fueron vendidos a partir de un listado especifica
 
-+Ejercicio 3: 
++Ejercicio 3: Se solicita dos propuestas para determinar el monto de un listado en especifico 
