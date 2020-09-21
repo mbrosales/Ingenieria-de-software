@@ -1,7 +1,7 @@
 # Sistemas-Expertos
 En este repositorio se encontraran ejemplos de buenas practicas
 
-En este repositorio se encuentran 3 ejercicios los cuales consisten en:
+En la carpeta llamda Ingenieria de software se encuentran 3 ejercicios los cuales consisten en: 
 
 +Ejercicio 1: Se trata de una calculadora la cual tiene las cuatro funciones basicas, las tres funciones trigonometricas, la potencia y la raiz cuadrada.
 
